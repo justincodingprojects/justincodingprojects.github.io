@@ -1,8 +1,8 @@
-http://justincodingprojects.ml/
-http://justincodingprojects.ml/index.html
-http://justincodingprojects.ml/login/
-http://petition.justincodingprojects.ml/
-http://petition.justincodingprojects.ml/index.html
-http://petition.justincodingprojects.ml/home.html
-http://games.justincodingprojects.ml/
-http://games.justincodingprojects.ml/index.html
+https://justincodingprojects.ml/
+https://justincodingprojects.ml/index.html
+https://justincodingprojects.ml/login/
+https://petition.justincodingprojects.ml/
+https://petition.justincodingprojects.ml/index.html
+https://petition.justincodingprojects.ml/home.html
+https://games.justincodingprojects.ml/
+https://games.justincodingprojects.ml/index.html
